@@ -2,3 +2,5 @@ coca cola
 banana
 manzana
 sprite
+guitarra
+bateria
